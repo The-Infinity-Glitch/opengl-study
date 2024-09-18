@@ -1,0 +1,8 @@
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/lib/libglfw3.a
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/include/GLFW/glfw3native.h
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/include/GLFW/glfw3.h
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/lib/cmake/glfw3/glfw3Config.cmake
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/lib/cmake/glfw3/glfw3Targets.cmake
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/lib/cmake/glfw3/glfw3Targets-debug.cmake
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/lib/pkgconfig/glfw3.pc

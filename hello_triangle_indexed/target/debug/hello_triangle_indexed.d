@@ -1,0 +1,1 @@
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/hello_triangle_indexed: /home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/src/main.rs

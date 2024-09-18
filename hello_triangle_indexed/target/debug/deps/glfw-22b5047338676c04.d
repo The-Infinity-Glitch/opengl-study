@@ -1,0 +1,10 @@
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/deps/libglfw-22b5047338676c04.rmeta: /home/theinfinityglitch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glfw-0.58.0/src/lib.rs /home/theinfinityglitch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glfw-0.58.0/src/callbacks.rs /home/theinfinityglitch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glfw-0.58.0/src/ffi/mod.rs /home/theinfinityglitch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glfw-0.58.0/src/ffi/link.rs
+
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/deps/libglfw-22b5047338676c04.rlib: /home/theinfinityglitch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glfw-0.58.0/src/lib.rs /home/theinfinityglitch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glfw-0.58.0/src/callbacks.rs /home/theinfinityglitch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glfw-0.58.0/src/ffi/mod.rs /home/theinfinityglitch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glfw-0.58.0/src/ffi/link.rs
+
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/deps/glfw-22b5047338676c04.d: /home/theinfinityglitch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glfw-0.58.0/src/lib.rs /home/theinfinityglitch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glfw-0.58.0/src/callbacks.rs /home/theinfinityglitch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glfw-0.58.0/src/ffi/mod.rs /home/theinfinityglitch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glfw-0.58.0/src/ffi/link.rs
+
+/home/theinfinityglitch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glfw-0.58.0/src/lib.rs:
+/home/theinfinityglitch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glfw-0.58.0/src/callbacks.rs:
+/home/theinfinityglitch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glfw-0.58.0/src/ffi/mod.rs:
+/home/theinfinityglitch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glfw-0.58.0/src/ffi/link.rs:

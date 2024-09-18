@@ -1,0 +1,15 @@
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/build/CMakeFiles/uninstall.dir
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/build/CMakeFiles/edit_cache.dir
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/build/CMakeFiles/rebuild_cache.dir
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/build/CMakeFiles/list_install_components.dir
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/build/CMakeFiles/install.dir
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/build/CMakeFiles/install/local.dir
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/build/CMakeFiles/install/strip.dir
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/build/src/CMakeFiles/update_mappings.dir
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/build/src/CMakeFiles/glfw.dir
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/build/src/CMakeFiles/edit_cache.dir
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/build/src/CMakeFiles/rebuild_cache.dir
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/build/src/CMakeFiles/list_install_components.dir
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/build/src/CMakeFiles/install.dir
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/build/src/CMakeFiles/install/local.dir
+/home/theinfinityglitch/Documents/Coding/rust/opengl_study/hello_triangle_indexed/target/debug/build/glfw-sys-ccbb8e2023740599/out/build/src/CMakeFiles/install/strip.dir
